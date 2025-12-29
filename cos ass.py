@@ -1,8 +1,8 @@
-# Name: Olatunde Samson
-# Matric No: BU24SEN1008
+# Name: OSUNDIJI BENEDICT
+# Matric No: BU24SEN1070
 # Department: SOFTWARE ENGINEERING
 
-print("TAX COLLECTOR 2009")
+print("TAX COLLECTOR ")
 print("0 - Single")
 print("1 - Married Filing Jointly")
 print("2 - Married Filing Separately")
